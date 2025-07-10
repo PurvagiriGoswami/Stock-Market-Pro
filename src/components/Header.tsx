@@ -18,7 +18,7 @@ const Header: React.FC<HeaderProps> = ({ onSearch, searchQuery }) => {
             <div className="flex items-center space-x-2">
               <TrendingUp className="h-8 w-8 text-blue-600 dark:text-blue-400" />
               <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-                MarketPro
+                Stoxio
               </h1>
             </div>
           </div>
