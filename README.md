@@ -94,6 +94,4 @@ npm run build
 ## License
 
 MIT
-# MarketPro
-# Stock-Market-Pro
-# Stock-Market-Pro
+
