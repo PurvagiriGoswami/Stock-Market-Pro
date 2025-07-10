@@ -1,4 +1,4 @@
-# MarketPro
+# Stoxio
 
 A modern stock market analysis and portfolio management application built with React, TypeScript, and Vite.
 
@@ -23,7 +23,7 @@ A modern stock market analysis and portfolio management application built with R
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd MarketPro
+cd Stoxio
 ```
 
 2. Install dependencies:
